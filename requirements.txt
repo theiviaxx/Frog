@@ -1,4 +1,4 @@
-Django==2.2.10
+Django==2.2.20
 django-contrib-comments==1.9.1
 django-haystack==2.8.1
 path.py==12.0.1
